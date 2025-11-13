@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938841933923",
+    "project_id": "food-recipe-ee6ff",
+    "storage_bucket": "food-recipe-ee6ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938841933923:android:264dc54e363bb082ddd056",
+        "android_client_info": {
+          "package_name": "com.example.foods_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938841933923-frurqtdhlt9om6qt80mq1itet914h4gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foods_recipe",
+            "certificate_hash": "8f837a0db4022d797ad6236acdbe8063d770d6d5"
+          }
+        },
+        {
+          "client_id": "938841933923-ajk1oels4e3oofkv899u9stl2pd02p3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nTAUX1QxVSNvZWAnglBVofbSGHy4pIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938841933923-ajk1oels4e3oofkv899u9stl2pd02p3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
